@@ -3,6 +3,8 @@ A private, fully local "chat with your documents" app. Upload PDFs or text files
 Built with Streamlit, LangChain and Ollama. No API keys and no data leaves your machine.
 
 <img width="1920" height="992" alt="image" src="https://github.com/user-attachments/assets/b6a9b0eb-144f-432b-9998-7e4f57454960" />
+<img width="1912" height="900" alt="image" src="https://github.com/user-attachments/assets/cef60fca-fa37-4360-9c31-5febcde851cf" />
+
 
 ## Features
 
