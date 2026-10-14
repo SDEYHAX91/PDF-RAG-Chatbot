@@ -1,5 +1,3 @@
-<img width="1920" height="992" alt="image" src="https://github.com/user-attachments/assets/e59838d0-d3f2-4ec8-a25b-88015ad34778" /># RAG Chatbot – Document Q&A
-
 A private, fully local "chat with your documents" app. Upload PDFs or text files, ask questions, and get answers based **only** on those files, with source file names and page numbers shown.
 
 Built with Streamlit, LangChain and Ollama. No API keys and no data leaves your machine.
